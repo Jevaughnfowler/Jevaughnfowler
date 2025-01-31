@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jevaughn
-- 👀 I’m interested in sports,cybersecurtiy
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in sports,
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jevaughnfowler@gmail.com
 <!---
